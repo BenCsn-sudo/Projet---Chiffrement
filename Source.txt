@@ -1,0 +1,24 @@
+PROJET DE CHIFFREMENT - COPYRIGHT (C) 2025
+Auteur : Benjamin COUSIN
+Tous droits réservés.
+
+Ce logiciel et son code source sont la propriété exclusive de leur auteur. Toute reproduction, modification, diffusion, représentation ou utilisation, totale ou partielle, sans autorisation écrite expresse de l’auteur est strictement interdite et passible de poursuites conformément aux lois en vigueur sur la propriété intellectuelle.
+
+Le code présent est fourni à titre éducatif et non commercial. Il ne peut être distribué, publié ou utilisé à des fins commerciales sans l’accord préalable de l’auteur.
+
+L’auteur décline toute responsabilité en cas d’utilisation abusive ou illicite du logiciel, ou en cas de dommages directs ou indirects résultant de son exécution, de son installation ou de son intégration dans un autre système.
+
+Le code peut contenir des exemples, démonstrations et implémentations simplifiées destinées à l’apprentissage des concepts de la programmation orientée objet en C++.
+
+Toute modification du code source doit être documentée explicitement et accompagnée d’une mention indiquant la date, le contributeur et la nature du changement.
+
+L’utilisateur est responsable de s’assurer que l’utilisation de ce logiciel respecte la législation locale, notamment en matière de cryptographie, de confidentialité et de sécurité des données.
+
+Les noms de fichiers, structures, classes, méthodes et concepts présentés dans ce projet sont purement illustratifs et ne sauraient être assimilés à un produit commercial.
+
+En utilisant, copiant, modifiant ou exécutant ce code, vous acceptez tacitement les conditions énoncées dans cette notice et reconnaissez les droits exclusifs de son auteur.
+
+Pour toute demande d’autorisation, de réutilisation ou de contribution, veuillez contacter l’auteur à l’adresse de contact indiquée dans la documentation du projet.
+
+Benjamin COUSIN, 2025
+Tous droits réservés.
