@@ -1,6 +1,7 @@
 # Projet de chiffrement en C++
 
 ## 🧩 Description
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 Ce projet implémente un programme de chiffrement et déchiffrement de fichiers texte en **C++** à l’aide de la **programmation orientée objet** et du **polymorphisme dynamique**.
 Il propose trois niveaux de sécurité :
